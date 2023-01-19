@@ -1,0 +1,47 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background-color: #A5A58D;
+}
+
+main, footer {
+  padding: 15px;
+  
+}
+h1,h2,h3 {
+  font-family: "Trebuchet MS"
+}
+
+h2{
+  font-size: 18px;
+}
+header {
+  text-align: center;
+}
+
+.main-back {
+  background-color: #FFE8D6;
+}
+
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width = 50%;
+  border-radius: 15px;
+}
+
+a: link {
+  color: #ff3884;
+}
+a: visited{
+ color: #ff901b;  
+}
+a:hover{
+  color: #39FF14;
+}
+
+footer {
+  margin: -3px;
+}
